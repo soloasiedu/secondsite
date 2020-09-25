@@ -1,0 +1,185 @@
+body{
+	font-family: 	Tahoma;
+}
+.mountainsection {
+	text-align: center;
+
+}
+
+.mountainsection h1 {
+	margin-bottom: 20px;
+	font-size: 80px;
+	text-transform: uppercase;
+}
+.mountainsection h4 {
+	font-size: 40px;
+	margin-bottom: 40px;
+}
+.mountainsection a{
+	
+	margin-bottom: 60px;
+}
+.jumbotron {
+	margin-bottom: 100px;
+}
+.jumbotron .col-md-8 p {
+	font-size: 20px;
+}
+
+.bwe {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.bwe hr {
+	width: 60%;
+}
+
+.bwe h1 {
+	font-size: 60px;
+}
+
+
+.icons {
+	text-align: center;
+	margin-bottom: 	100px;
+}
+.icons h2 {
+	text-transform: uppercase;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.icons p{
+	font-size: 20px;
+}
+
+.anothersection {
+	text-align: center;
+	margin-top: 	100px;
+	margin-bottom: 	100px;
+}
+.anothersection h1, p{
+	text-align: left;
+}
+.anothersection #parabtn {
+	margin-bottom: 50px;
+}
+.fixedbackground{
+	text-align: center;
+	background-image: url('../images/butterfly.jpg');
+	background-size: inherit;
+	background-attachment: 	fixed;
+	background-position: center;
+	height: 500px;
+	margin-top: 	50px;
+	margin-bottom: 	50px;
+	border: 5px solid #1FBED6;
+	border-radius: 10px;
+}
+
+.forfun {
+	text-align: center;
+}
+
+/*.forfun img{
+	width: 	100px;
+	padding: 50px;
+}*/
+
+.forfun p{
+	padding-left: 	100px;
+	margin-top: 50px;
+}
+
+.meettheteam {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 	100px;
+}
+.meettheteam hr {
+	width: 60%;
+	margin-bottom: 	100px;
+}
+.ourphilosophy {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 	100px;
+}
+.ourphilosophy h1, p{
+	text-align: left;
+}
+.ourphilosophy h1 {
+	margin-bottom: 	30px;
+}
+.ourphilosophy p {
+	margin-top: 30px;
+}
+
+.connect {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 	100px;
+
+}
+.connect h1 {
+	margin-bottom: 	60px;
+
+}
+.connect a {
+	padding-right: 	50px;
+	margin-bottom: 50px;
+}
+
+.contacts {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 	0px;
+	background-color: #383638;
+	color: white;
+}
+
+.contacts hr {
+	width: 	60%;
+	border-color: white;
+}
+
+.contacts .col-md-12 hr{
+	width: 100%;
+}
+.contacts ul {
+	list-style-type: none;
+
+}
+.contacts ul li{
+	padding-bottom: 20px;
+}
+.contacts .col-md-12 p{
+	text-align: center;
+	margin-bottom: 50px;
+}
+@media (max-width: 600px){
+	.mountainsection h1 {
+		font-size: 50px;
+	}
+	.mountainsection h4 {
+		font-size: 30px;
+	}
+	.bwe h1 {
+		font-size: 50px;
+	}
+
+}
+
+@media (max-width: 400px){
+	.mountainsection h1 {
+		font-size: 35px;
+	}
+	.mountainsection h4 {
+		font-size: 25px;
+	}
+	.bwe h1 {
+		font-size: 30px;
+	}
+
+}
+
