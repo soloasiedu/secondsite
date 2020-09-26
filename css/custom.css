@@ -20,7 +20,7 @@ body{
 	margin-bottom: 60px;
 }
 .jumbotron {
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 .jumbotron .col-md-8 p {
 	font-size: 20px;
@@ -28,7 +28,7 @@ body{
 
 .bwe {
 	text-align: center;
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 }
 
 .bwe hr {
@@ -42,7 +42,7 @@ body{
 
 .icons {
 	text-align: center;
-	margin-bottom: 	100px;
+	margin-bottom: 	80px;
 }
 .icons h2 {
 	text-transform: uppercase;
@@ -55,8 +55,8 @@ body{
 
 .anothersection {
 	text-align: center;
-	margin-top: 	100px;
-	margin-bottom: 	100px;
+	margin-top: 	80px;
+	margin-bottom: 	80px;
 }
 .anothersection h1, p{
 	text-align: left;
@@ -93,17 +93,17 @@ body{
 
 .meettheteam {
 	text-align: center;
-	margin-top: 100px;
-	margin-bottom: 	100px;
+	margin-top: 80px;
+	margin-bottom: 	80px;
 }
 .meettheteam hr {
 	width: 60%;
-	margin-bottom: 	100px;
+	margin-bottom: 	80px;
 }
 .ourphilosophy {
 	text-align: center;
-	margin-top: 100px;
-	margin-bottom: 	100px;
+	margin-top: 80px;
+	margin-bottom: 	80px;
 }
 .ourphilosophy h1, p{
 	text-align: left;
@@ -117,8 +117,8 @@ body{
 
 .connect {
 	text-align: center;
-	margin-top: 100px;
-	margin-bottom: 	100px;
+	margin-top: 80px;
+	margin-bottom: 	80px;
 
 }
 .connect h1 {
@@ -132,7 +132,7 @@ body{
 
 .contacts {
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 80px;
 	margin-bottom: 	0px;
 	background-color: #383638;
 	color: white;
